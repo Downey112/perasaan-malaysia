@@ -11,7 +11,7 @@ An automated end-to-end data pipeline that extracts, cleans, and visualizes offi
 
 ## 📊 Live Interactive Dashboard
 
-**[👉 Launch the Live Interactive Looker Studio Report](PASTE_YOUR_PUBLIC_LINK_HERE)**
+**[👉 Launch the Live Interactive Looker Studio Report](https://datastudio.google.com/reporting/e7474503-e4f5-45e7-a575-31aebc284a85)**
 
 <p align="center">
   <a href="https://datastudio.google.com/reporting/e7474503-e4f5-45e7-a575-31aebc284a85">
