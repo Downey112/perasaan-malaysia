@@ -1,4 +1,4 @@
-# 🇲🇾 Perasaan Malaysia: MetMalaysia Climate Forecast Engine
+Perasaan Malaysia: MetMalaysia Climate Forecast Engine
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/Workflow-GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white)](#)
